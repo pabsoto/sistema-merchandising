@@ -1,0 +1,9 @@
+# Ignorar librerías pesadas
+**/node_modules/
+**/dist/
+**/.vite/
+
+# Ignorar archivos secretos del backend
+**/@.env
+**/.env
+.env
